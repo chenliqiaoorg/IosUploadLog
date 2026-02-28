@@ -1,0 +1,4 @@
+2026-02-28 06:16:24.504 xcodebuild[3286:15384] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/q_/pk8v8g4n3qq2gcnsvqjc3sd40000gn/T/ToDoList_2026-02-28_06-16-24.495.xcdistributionlogs".
+Exported ToDoList to: /Users/runner/work/To_Do_List/To_Do_List/ToDoList.ipa
+** EXPORT SUCCEEDED **
+
