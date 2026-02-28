@@ -1,0 +1,11 @@
+Running altool at path '/Applications/Xcode_16.4.app/Contents/SharedFrameworks/ContentDeliveryServices.framework/Frameworks/AppStoreService.framework/Support/altool'...
+2026-02-28 06:10:59.251 ERROR: [altool.6000022281C0] [ContentDelivery.Uploader.6000022281C0] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘1’. (ID: 3f2d2351-95c9-4142-8600-863b0a9b0a14)
+2026-02-28 06:10:59.253 ERROR: [altool.6000022281C0] Error uploading 'ToDoList.ipa/ToDoList.ipa'.
+2026-02-28 06:10:59.253 ERROR: [altool.6000022281C0] The provided entity includes an attribute with a value that has already been used The bundle version must be higher than the previously uploaded version: ‘1’. (ID: 3f2d2351-95c9-4142-8600-863b0a9b0a14) (-19232)
+ {
+    NSLocalizedDescription = "The provided entity includes an attribute with a value that has already been used";
+    NSLocalizedFailureReason = "The bundle version must be higher than the previously uploaded version: \U20181\U2019. (ID: 3f2d2351-95c9-4142-8600-863b0a9b0a14)";
+    NSUnderlyingError = "Error Domain=IrisAPI Code=-19241 \"The provided entity includes an attribute with a value that has already been used\" UserInfo={status=409, detail=The bundle version must be higher than the previously uploaded version., source={\n    pointer = \"/data/attributes/cfBundleVersion\";\n}, id=3f2d2351-95c9-4142-8600-863b0a9b0a14, code=ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE, title=The provided entity includes an attribute with a value that has already been used, meta={\n    previousBundleVersion = 1;\n}, NSLocalizedDescription=The provided entity includes an attribute with a value that has already been used, NSLocalizedFailureReason=The bundle version must be higher than the previously uploaded version.}";
+    "iris-code" = "ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE";
+    previousBundleVersion = 1;
+}
