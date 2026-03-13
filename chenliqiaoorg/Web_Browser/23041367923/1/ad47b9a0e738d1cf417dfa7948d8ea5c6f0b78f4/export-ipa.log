@@ -1,0 +1,4 @@
+2026-03-13 07:51:17.758 xcodebuild[13102:45899] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/t5/f77_gwnj6p95qxy9py3fckx00000gn/T/WebBrowser_2026-03-13_07-51-17.757.xcdistributionlogs".
+Exported WebBrowser to: /Users/runner/work/Web_Browser/Web_Browser/WebBrowser.ipa
+** EXPORT SUCCEEDED **
+
