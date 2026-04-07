@@ -1,0 +1,4 @@
+2026-04-07 06:48:42.347 xcodebuild[6272:21874] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/tb/y368xp_x10s3ty1b_mtl5mxr0000gn/T/countdown_2026-04-07_06-48-42.341.xcdistributionlogs".
+Exported countdown to: /Users/runner/work/CountdownW/CountdownW/countdown.ipa
+** EXPORT SUCCEEDED **
+
