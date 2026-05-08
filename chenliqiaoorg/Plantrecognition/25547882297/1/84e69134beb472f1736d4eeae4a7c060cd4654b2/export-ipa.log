@@ -1,0 +1,4 @@
+2026-05-08 09:27:48.416 xcodebuild[14076:44921] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/tb/y368xp_x10s3ty1b_mtl5mxr0000gn/T/xcodePlantrecognition_2026-05-08_09-27-48.408.xcdistributionlogs".
+Exported xcodePlantrecognition to: /Users/runner/work/Plantrecognition/Plantrecognition/xcodePlantrecognition.ipa
+** EXPORT SUCCEEDED **
+
