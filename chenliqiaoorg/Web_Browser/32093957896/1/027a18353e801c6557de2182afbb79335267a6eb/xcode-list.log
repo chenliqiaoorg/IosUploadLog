@@ -1,0 +1,28 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Web_Browser/Web_Browser/WebBrowser.xcworkspace
+
+Information about workspace "WebBrowser":
+    Schemes:
+        Ads-Global
+        Ads-Global-AdsGlobalSDK
+        Ads-Global-TikTokBusinessSDK
+        ApplePurchaseKit
+        FBAudienceNetwork
+        FBAudienceNetwork-FBAudienceNetwork
+        InMobiSDK
+        KeychainAccess
+        MintegralAdSDK
+        MintegralAdSDK-MTGSDK
+        Pods-WebBrowser
+        SmartdigimktSDK
+        SVProgressHUD
+        TPNiOS
+        TPNMediationAdxSmartdigimktAdapter
+        TPNMediationFacebookAdapter
+        TPNMediationInmobiAdapter
+        TPNMediationMintegralAdapter
+        TPNMediationPangleAdapter
+        UMCommon
+        UMDevice
+        WebBrowser
+

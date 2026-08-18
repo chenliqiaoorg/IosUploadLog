@@ -1,0 +1,5 @@
+已更新 TargetAttributes 手动签名 target=1
+已更新签名配置：com.web.browser.abody(2)；手动签名 target=1；项目级清理=0；xcconfig=0
+手动签名校验通过：
+target=WebBrowser config=Debug bundleId=com.web.browser.abody profileUuid=9ec4925e-7b82-40ae-b1f5-7e2a4370dddc profileName=appstore-com.web.browser.abody-20260818030207418 team=NB72MDN3HF identity=Apple Distribution: SMJ Jewellery (HK) Limited (NB72MDN3HF)
+target=WebBrowser config=Release bundleId=com.web.browser.abody profileUuid=9ec4925e-7b82-40ae-b1f5-7e2a4370dddc profileName=appstore-com.web.browser.abody-20260818030207418 team=NB72MDN3HF identity=Apple Distribution: SMJ Jewellery (HK) Limited (NB72MDN3HF)
